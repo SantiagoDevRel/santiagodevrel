@@ -82,9 +82,9 @@ achievement
 
 <h1>🔗 Connect with me</h1>
 
-<a herf="https://www.linkedin.com/in/santiagotrujilloz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
-<a herf="https://www.instagram.com/santiagotrujilloz"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" /></a>
-<a herf="https://github.com/strujilloz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
+<a href="https://www.linkedin.com/in/santiagotrujilloz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
+<a href="https://www.instagram.com/santiagotrujilloz"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" /></a>
+<a href="https://github.com/strujilloz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
 <a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" /></a>
 <a href="tel:+351-934-255-581 "><img src="https://img.icons8.com/bubbles/50/000000/phone.png" /></a>
 

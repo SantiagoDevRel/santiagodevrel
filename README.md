@@ -4,7 +4,7 @@
 
 <img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h1>🙆 Talking about Personal Stuffs...</h1>
+<h1>🙆 Talking about Personal Stuff...</h1>
 
 Results-driven professional leveraging extensive knowledge of blockchain technology and software development to drive
 successful business outcomes. Adept at capturing opportunities by exploring different DeFis while developing smart

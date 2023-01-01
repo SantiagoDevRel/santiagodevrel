@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9945ff&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=03E1FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!%2C+My+name+is+Santiago+Trujillo+Zuluaga;I+am+a+Blockchain+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=03E1FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!%2C+My+name+is+Santiago+Trujillo+Zuluaga;I+am+a+Blockchain+Developer)](https://git.io/typing-svg)
 
 <img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 

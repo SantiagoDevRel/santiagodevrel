@@ -73,13 +73,13 @@ achievement
 </table>
 <br>
 
-<div align="center">  
+<!--<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=strujilloz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Flavio Henrique Marques de Sousa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strujilloz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=strujilloz&theme=gotham&hide_border=true&area=true)
-
+-->
 <h1>🔗 Connect with me</h1>
 
 <a href="https://www.linkedin.com/in/santiagotrujilloz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>

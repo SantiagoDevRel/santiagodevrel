@@ -37,8 +37,8 @@ Santiago is a highly motivated and dedicated individual, always eager to collabo
                 <br>Solidity
             </td>
             <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-                <br>Excel
+                <img src="https://img.shields.io/badge/-Hardhat-yellow">
+                <br>Hardhat
             </td>
             <td align="center" style="border:1px solid #3A424A">
                 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">

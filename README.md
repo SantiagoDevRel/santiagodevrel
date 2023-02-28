@@ -65,7 +65,7 @@ Santiago is a highly motivated and dedicated individual, always eager to collabo
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strujilloz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=strujilloz&theme=gotham&hide_border=true&area=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=santiagotrujilloz&theme=gotham&hide_border=true&area=true)
 
 <h1>🔗 Connect with me</h1>
 

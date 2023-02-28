@@ -6,12 +6,9 @@
 
 <h1>🙆 Talking about Personal Stuff...</h1>
 
-Results-driven professional leveraging extensive knowledge of blockchain technology and software development to drive
-successful business outcomes. Adept at capturing opportunities by exploring different DeFis while developing smart
-contracts and blockchain frameworks to achieve innovative real-time solutions. Strategic problem-solver with repeated
-success in piloting business growth, new market penetration, and brand development. Expert in competitive strategy
-development, cross-functional collaborations, and strategic execution of projects to resolve challenges and optimize goal
-achievement
+Santiago possesses a deep understanding of the Blockchain ecosystem and its potential to transform industries. He has acquired extensive knowledge and experience in various concepts, such as Hardhat, Hardhat coverage, Hashing functions, ECDSA, EVM, Byzantine consensus, ERC721, ERC20, ERC1159, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
+
+Santiago is a highly motivated and dedicated individual, always eager to collaborate with a team to achieve common goals. He possesses a curious mindset and is always seeking to learn and keep up with the latest developments in the blockchain space. His commitment to his work and expertise in the field makes him a valuable addition to any blockchain project or team.
 
 <br>
 

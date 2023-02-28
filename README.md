@@ -29,8 +29,8 @@ Santiago is a highly motivated and dedicated individual, always eager to collabo
                 <br>NodeJS
             </td>
             <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-                <br>Premiere Pro
+                <img src="https://img.shields.io/badge/-EthersJS-ff69b4">
+                <br>Ether.JS
             </td>
             <td align="center" style="border:1px solid #3A424A">
                 <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">

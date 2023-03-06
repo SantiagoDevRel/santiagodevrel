@@ -6,7 +6,7 @@
 
 <h1>🙆 Talking about Personal Stuff...</h1>
 
-Santiago possesses a deep understanding of the Blockchain ecosystem and its potential to transform industries. He has acquired extensive knowledge and experience in various concepts, such as Hardhat, Hardhat coverage, Hashing functions, ECDSA, EVM, Byzantine consensus, ERC721, ERC20, ERC1159, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
+Santiago possesses a deep understanding of the Blockchain ecosystem and its potential to transform industries. He has acquired extensive knowledge and experience in various concepts, such as Hardhat, Hardhat coverage, Hashing functions, ECDSA, EVM, Byzantine consensus, ERC721, ERC20, ERC1155, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
 
 <br>
 

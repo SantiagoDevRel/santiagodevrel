@@ -6,11 +6,13 @@
 
 <h1>👨‍💻 Talking about Personal Stuff... 👨‍💻</h1>
 
-Santiago possesses a deep understanding of the Blockchain ecosystem and its potential to transform industries. He has acquired extensive knowledge and experience in various concepts, such as Slither, Echidna, Vertigo, Hardhat, Opcodes, Delegate call, Proxies, Hardhat coverage, Hashing functions, ECDSA, EVM, Re-entrancy, Front-running, Denial of service, Byzantine consensus, ERC721, ERC20, ERC1155, EIP712, ECDSA, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
+I am a dedicated blockchain Developer Advocate (DevRel), passionate about simplifying complex technologies for developers. My primary focus revolves around creating educational programs designed to drive the adoption of blockchain ecosystems. By equipping developers with the knowledge and tools they need, I aim to break down barriers and make blockchain technology more accessible.
+
+I have a deep understanding of the Blockchain ecosystem and its potential to transform industries. I have acquired extensive knowledge and experience in various concepts, such as Slither, Echidna, Vertigo, Hardhat, Opcodes, Delegate call, Proxies, Hardhat coverage, Hashing functions, ECDSA, EVM, Re-entrancy, Front-running, Denial of service, Byzantine consensus, ERC721, ERC20, ERC1155, EIP712, ECDSA, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
 
 <br>
 
-Santiago is a highly motivated and dedicated individual, always eager to collaborate with a team to achieve common goals. He possesses a curious mindset and is always seeking to learn and keep up with the latest developments in the blockchain space. His commitment to his work and expertise in the field makes him a valuable addition to any blockchain project or team.
+I am a highly motivated and dedicated individual, always eager to collaborate with a team to achieve common goals. I possess a curious mindset and am always seeking to learn and keep up with the latest developments in the blockchain space. My commitment to work and expertise in the field make me a valuable addition to any blockchain project or team.
 
 <br>
 

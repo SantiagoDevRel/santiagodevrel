@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8A12&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=E34C1C&size=35&center=true&vCenter=true&width=1000&lines=Hi!%2C+My+name+is+Santiago+Trujillo+Zuluaga;I+am+a+Web3+Developer+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=FF8A12&size=35&center=true&vCenter=true&width=1000&lines=Hi!%2C+My+name+is+Santiago+Trujillo+Zuluaga;I+am+a+Web3+Developer+Advocate)](https://git.io/typing-svg)
 
 <img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -26,6 +26,10 @@ I am a highly motivated and dedicated individual, always eager to collaborate wi
                 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
                 <br>Javascript
             </td>
+            <td align="center" style="border:1px solid #FF8A12">
+                <img src="https://img.shields.io/badge/web3.js-js?logoColor=%23FF8A12&color=%23FF8A12" >
+                <br>Web3.js
+            </td>
             <td align="center" style="border:1px solid #3A424A">
                 <img src="https://img.shields.io/badge/nodejs-%231572B6.svg?style=for-the-badge&logo=nodejs&logoColor=white">
                 <br>NodeJS
@@ -41,10 +45,6 @@ I am a highly motivated and dedicated individual, always eager to collaborate wi
             <td align="center" style="border:1px solid #3A424A">
                 <img src="https://img.shields.io/badge/-Hardhat-yellow">
                 <br>Hardhat
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-                <br>MangoDB
             </td>
             <td align="center" style="border:1px solid #3A424A">
                 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">

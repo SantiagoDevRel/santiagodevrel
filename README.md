@@ -1,54 +1,38 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Santiago%20Trujillo%20Zuluaga&fontSize=36&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Developer%20Advocate%20%7C%20Web3%20→%20AI&descSize=16&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Santiago%20Trujillo%20Zuluaga&fontSize=36&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Developer%20Advocate%20%7C%20Web3%20%2B%20AI&descSize=16&descAlignY=55&descAlign=50"/>
 
 ### 👋 About me
 
-Developer Advocate with 3+ years of experience building developer communities and driving product adoption across Web3 ecosystems. Currently pivoting into **AI Developer Relations** — combining my DevRel craft (community building, technical content, public speaking, hackathon facilitation) with hands-on AI engineering skills.
+Developer Advocate with 3+ years of experience building developer communities and driving product adoption. My background is in **Web3** — leading programs at Lisk, ChainSafe/Web3.js, and Swisstronik — and I'm now expanding into **AI engineering** to bring both worlds together.
 
-I organized the largest Web3 developer tour across multiple African countries, led ambassador programs at Lisk, ChainSafe/Web3.js, and Swisstronik, and hold a Master's in Blockchain Technologies from UPC Barcelona.
-
-Now I'm learning to build, ship, and share AI applications — and documenting the entire journey publicly.
-
----
-
-### 🔄 The Pivot
-
-```
-Web3 DevRel                          AI DevRel
-─────────────────────────────────────────────────────
-Solidity, EVM, Smart Contracts   →   Python, LLMs, Agents
-Ethers.js, Web3.js, Hardhat     →   LangChain, LangGraph, MCP
-Token standards, DeFi protocols  →   RAG, Vector DBs, Embeddings
-dApp demos & workshops           →   AI app demos & workshops
-Blockchain communities           →   AI developer communities
-─────────────────────────────────────────────────────
-What stays the same: teaching, building, shipping, community
-```
-
----
-
-### 🧠 Currently Learning
-
-| Topic | Status | Notes |
-|-------|--------|-------|
-| Python fundamentals | 🟡 In progress | [python-for-ai-devrel](https://github.com/SantiagoDevRel/python-for-ai-devrel) |
-| LLM APIs (OpenAI, Anthropic) | ⬜ Up next | |
-| RAG & Vector Databases | ⬜ Planned | |
-| LangChain / LangGraph | ⬜ Planned | |
-| AI Agents & MCP | ⬜ Planned | |
-| AI Makerspace Bootcamp | ⬜ Target | |
+I organized developer tours across multiple African countries, led ambassador programs from scratch, and hold a Master's in Blockchain Technologies from UPC Barcelona. I believe the best DevRels are the ones who never stop learning — so right now I'm going deep on LLMs, agents, and the AI developer tooling ecosystem.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Strong (Web3 era)**
-`JavaScript` `TypeScript` `Solidity` `React` `Node.js` `Ethers.js` `Web3.js` `Hardhat`
+**Web3**
+`Solidity` `Ethers.js` `Web3.js` `Hardhat` `EVM` `Token Standards` `Smart Contracts`
 
-**Building (AI pivot)**
-`Python` `LLM APIs` `Prompt Engineering`
+**General**
+`JavaScript` `TypeScript` `React` `Node.js` `Python`
 
-**DevRel craft**
+**AI (actively building)**
+`LLM APIs` `Prompt Engineering` `RAG` `LangChain` `Agents`
+
+**DevRel**
 `Technical writing` `Public speaking` `Workshop facilitation` `Developer communities` `Hackathon organization` `Content strategy`
+
+---
+
+### 🧠 Currently Learning
+
+| Topic | Status |
+|-------|--------|
+| Python fundamentals | 🟡 In progress |
+| LLM APIs (OpenAI, Anthropic) | ⬜ Up next |
+| RAG & Vector Databases | ⬜ Planned |
+| LangChain / LangGraph | ⬜ Planned |
+| AI Agents & MCP | ⬜ Planned |
 
 ---
 
@@ -58,16 +42,15 @@ What stays the same: teaching, building, shipping, community
 |---------|-------------|-------|
 | [Stellar Token Studio](https://github.com/SantiagoDevRel/stellar-studio) | Token creation tool for Stellar blockchain | Stellar SDK, React |
 | [python-for-ai-devrel](https://github.com/SantiagoDevRel/python-for-ai-devrel) | 7-day Python crash course (JS → Python) | Python |
-| *More AI projects coming soon...* | | |
 
 ---
 
 ### 🌍 Highlights
 
-- 🎤 Organized Web3 developer tour across multiple African countries
-- 🏗️ Led developer programs at **Lisk**, **ChainSafe/Web3.js**, **Swisstronik**
+- 🎤 Led Web3 developer tours across 7+ countries in Africa
+- 🏗️ Developer programs at **Lisk**, **ChainSafe/Web3.js**, **Swisstronik**
 - 🎓 Master's in Blockchain Technologies — **UPC Barcelona**
-- 🚀 Founded and sold **MyFPVWorld**
+- 🚀 Founded and sold **MyFPVWorld** (top 5 FPV drone store in Europe)
 - 🌐 Bilingual: English & Spanish
 
 ---

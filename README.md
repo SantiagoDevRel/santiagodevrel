@@ -1,78 +1,81 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8A12&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=FF8A12&size=35&center=true&vCenter=true&width=1000&lines=Hi!%2C+My+name+is+Santiago+Trujillo+Zuluaga;I+am+a+Web3+Developer+Advocate)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Santiago%20Trujillo%20Zuluaga&fontSize=36&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=Developer%20Advocate%20%7C%20Web3%20→%20AI&descSize=16&descAlignY=55&descAlign=50"/>
 
-<img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+### 👋 About me
 
-<h1>👨‍💻 Talking about Personal Stuff... 👨‍💻</h1>
+Developer Advocate with 3+ years of experience building developer communities and driving product adoption across Web3 ecosystems. Currently pivoting into **AI Developer Relations** — combining my DevRel craft (community building, technical content, public speaking, hackathon facilitation) with hands-on AI engineering skills.
 
-I am a dedicated blockchain Developer Advocate (DevRel), passionate about simplifying complex technologies for developers. My primary focus revolves around creating educational programs designed to drive the adoption of blockchain ecosystems. By equipping developers with the knowledge and tools they need, I aim to break down barriers and make blockchain technology more accessible.
+I organized the largest Web3 developer tour across multiple African countries, led ambassador programs at Lisk, ChainSafe/Web3.js, and Swisstronik, and hold a Master's in Blockchain Technologies from UPC Barcelona.
 
-I have a deep understanding of the Blockchain ecosystem and its potential to transform industries. I have acquired extensive knowledge and experience in various concepts, such as Slither, Echidna, Vertigo, Hardhat, Opcodes, Delegate call, Proxies, Hardhat coverage, Hashing functions, ECDSA, EVM, Re-entrancy, Front-running, Denial of service, Byzantine consensus, ERC721, ERC20, ERC1155, EIP712, ECDSA, EIP1159, Scaffold ETH, Ethers.js, Javascript, Alchemy, Node JS & React JS.
+Now I'm learning to build, ship, and share AI applications — and documenting the entire journey publicly.
 
-<br>
+---
 
-I am a highly motivated and dedicated individual, always eager to collaborate with a team to achieve common goals. I possess a curious mindset and am always seeking to learn and keep up with the latest developments in the blockchain space. My commitment to work and expertise in the field make me a valuable addition to any blockchain project or team.
+### 🔄 The Pivot
 
-<br>
+```
+Web3 DevRel                          AI DevRel
+─────────────────────────────────────────────────────
+Solidity, EVM, Smart Contracts   →   Python, LLMs, Agents
+Ethers.js, Web3.js, Hardhat     →   LangChain, LangGraph, MCP
+Token standards, DeFi protocols  →   RAG, Vector DBs, Embeddings
+dApp demos & workshops           →   AI app demos & workshops
+Blockchain communities           →   AI developer communities
+─────────────────────────────────────────────────────
+What stays the same: teaching, building, shipping, community
+```
 
-<h1>💻 Things I know</h1>
+---
 
-<i>Tools, languages, and other things that I like to work with.</i> <br><br>
+### 🧠 Currently Learning
 
-<table>
-        <tr>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
-                <br>Javascript
-            </td>
-            <td align="center" style="border:1px solid #FF8A12">
-                <img src="https://img.shields.io/badge/web3.js-js?logoColor=%23FF8A12&color=%23FF8A12" >
-                <br>Web3.js
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/nodejs-%231572B6.svg?style=for-the-badge&logo=nodejs&logoColor=white">
-                <br>NodeJS
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/-EthersJS-ff69b4">
-                <br>Ether.JS
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
-                <br>Solidity
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/-Hardhat-yellow">
-                <br>Hardhat
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-                <br>React
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-                <br>mysql
-            </td>
-            <td align="center" style="border:1px solid #3A424A">
-                <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
-                <br>WordPress
-            </td>
-        </tr>
-</table>
-<br>
+| Topic | Status | Notes |
+|-------|--------|-------|
+| Python fundamentals | 🟡 In progress | [python-for-ai-devrel](https://github.com/SantiagoDevRel/python-for-ai-devrel) |
+| LLM APIs (OpenAI, Anthropic) | ⬜ Up next | |
+| RAG & Vector Databases | ⬜ Planned | |
+| LangChain / LangGraph | ⬜ Planned | |
+| AI Agents & MCP | ⬜ Planned | |
+| AI Makerspace Bootcamp | ⬜ Target | |
 
-<h1>🔗 Connect with me</h1>
+---
 
-<a href="https://www.linkedin.com/in/santiagodevrel/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>
-<a href="https://www.instagram.com/santiagotrujilloz"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" /></a>
-<a href="https://github.com/santiagodevrel"><img src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
-<a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" /></a>
-<a href="tel:+351-934-255-581 "><img src="https://img.icons8.com/bubbles/50/000000/phone.png" /></a>
+### 🛠️ Tech Stack
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{strujilloz}/count.svg" /></p> 
-<br></div>
+**Strong (Web3 era)**
+`JavaScript` `TypeScript` `Solidity` `React` `Node.js` `Ethers.js` `Web3.js` `Hardhat`
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8A12&height=120&section=footer"/>
+**Building (AI pivot)**
+`Python` `LLM APIs` `Prompt Engineering`
+
+**DevRel craft**
+`Technical writing` `Public speaking` `Workshop facilitation` `Developer communities` `Hackathon organization` `Content strategy`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Stellar Token Studio](https://github.com/SantiagoDevRel/stellar-studio) | Token creation tool for Stellar blockchain | Stellar SDK, React |
+| [python-for-ai-devrel](https://github.com/SantiagoDevRel/python-for-ai-devrel) | 7-day Python crash course (JS → Python) | Python |
+| *More AI projects coming soon...* | | |
+
+---
+
+### 🌍 Highlights
+
+- 🎤 Organized Web3 developer tour across multiple African countries
+- 🏗️ Led developer programs at **Lisk**, **ChainSafe/Web3.js**, **Swisstronik**
+- 🎓 Master's in Blockchain Technologies — **UPC Barcelona**
+- 🚀 Founded and sold **MyFPVWorld**
+- 🌐 Bilingual: English & Spanish
+
+---
+
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagodevrel/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SantiagoDevRel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:santiagotrujillozuluaga@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=100&section=footer"/>

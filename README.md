@@ -11,8 +11,14 @@
 <br/>
 
 <!-- PORTFOLIO CTA — given its own prominent badge so visitors actually click it -->
+<!-- Option 3: SVG with CSS animation (pulsing ring + shimmer, runs natively on GitHub) -->
 <a href="https://santiagodevrel.dev">
-  <img src="https://img.shields.io/badge/🌐%20santiagodevrel.dev-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="./assets/portfolio-button.svg" alt="Portfolio" width="340"/>
+</a>
+
+<!-- Option 1: Animated GIF fallback (same effect, broader compatibility) -->
+<a href="https://santiagodevrel.dev">
+  <img src="./assets/portfolio-button.gif" alt="Portfolio" width="340"/>
 </a>
 
 <br/><br/>

@@ -10,12 +10,19 @@
 
 <br/>
 
-<!-- SOCIAL + PROFILE BADGES -->
-[![LinkedIn](https://img.shields.io/badge/santiagodevrel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagodevrel)
-[![Twitter](https://img.shields.io/badge/@santiagotrujilloz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/santiagotrujilloz)
-[![Portfolio](https://img.shields.io/badge/santiagodevrel.dev-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://santiagodevrel.dev)
-[![Medium](https://img.shields.io/badge/@santiagodevrel-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@santiagodevrel)
-[![Email](https://img.shields.io/badge/say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santiagotrujillozuluaga@gmail.com)
+<!-- SOCIAL LINKS — logo icons + clean text hyperlinks -->
+<a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>&nbsp;
+<a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter / X"/></a>&nbsp;
+<a href="https://santiagodevrel.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" title="Portfolio"/></a>&nbsp;
+<a href="https://medium.com/@santiagodevrel"><img src="https://img.shields.io/badge/M-12100E?style=flat-square&logo=medium&logoColor=white&logoSize=20" height="40" title="Medium"/></a>&nbsp;
+<a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>
+
+<br/><br/>
+
+<!-- Links as plain text below the icons -->
+[LinkedIn](https://linkedin.com/in/santiagodevrel) &nbsp;·&nbsp; [Twitter / X](https://twitter.com/santiagotrujilloz) &nbsp;·&nbsp; [Portfolio](https://santiagodevrel.dev) &nbsp;·&nbsp; [Medium](https://medium.com/@santiagodevrel) &nbsp;·&nbsp; [Email](mailto:santiagotrujillozuluaga@gmail.com)
+
+<br/>
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=santiagodevrel&color=FF6B35&style=flat-square&label=profile+views)

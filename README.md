@@ -10,9 +10,9 @@
 
 <br/>
 
-<!-- PORTFOLIO CTA GIF— given its own prominent badge so visitors actually click it -->
+<!-- PORTFOLIO CTA — animated GIF button, commit to assets/portfolio-button.gif in your repo -->
 <a href="https://santiagodevrel.dev">
-  <img src="./assets/portfolio-button.gif" alt="Portfolio" width="340"/>
+  <img src="./assets/portfolio-button.gif" alt="Portfolio — santiagodevrel.dev" width="340"/>
 </a>
 
 <br/><br/>
@@ -20,6 +20,7 @@
 <!-- SOCIAL ICONS — rounded skill icons for LinkedIn, X, Gmail + shields badge for Medium -->
 <a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="48" title="Twitter / X"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/santiagotrujilloz"><img src="./assets/instagram.svg" width="48" title="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email"/></a>
 
 <br/><br/>

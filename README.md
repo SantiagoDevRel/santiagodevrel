@@ -10,9 +10,9 @@
 
 <br/>
 
-<!-- PORTFOLIO CTA — given its own prominent badge so visitors actually click it -->
+<!-- PORTFOLIO CTA GIF— given its own prominent badge so visitors actually click it -->
 <a href="https://santiagodevrel.dev">
-  <img src="https://img.shields.io/badge/🌐%20santiagodevrel.dev-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="./assets/portfolio-button.gif" alt="Portfolio" width="340"/>
 </a>
 
 <br/><br/>

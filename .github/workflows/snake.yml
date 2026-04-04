@@ -1,0 +1,47 @@
+# .github/workflows/snake.yml
+# This workflow runs daily and on every push to regenerate the snake animation
+# from your GitHub contribution graph. It commits the output SVG files to the
+# "output" branch, which the README.md references via raw GitHub URLs.
+
+name: Generate Snake Animation
+
+on:
+  # Run automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Also run whenever you push to main (so it updates immediately)
+  push:
+    branches:
+      - main
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Check out the repo so the workflow can write files
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate the snake SVG files (light + dark variants)
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Output both a light and dark version
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Push the generated SVG files to the "output" branch
+      # The README references: .../santiagodevrel/output/github-snake.svg
+      - name: Push snake files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -19,7 +19,7 @@
 
 <!-- SOCIAL ICONS — rounded skill icons for LinkedIn, X, Gmail + shields badge for Medium -->
 <a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="48" title="Twitter / X"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/santiagodevrel"><img src="https://skillicons.dev/icons?i=twitter" width="48" title="Twitter / X"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/santiagotrujilloz"><img src="./assets/instagram.svg" width="48" title="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email"/></a>
 

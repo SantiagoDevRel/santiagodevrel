@@ -11,9 +11,8 @@
 <br/>
 
 <!-- PORTFOLIO CTA — given its own prominent badge so visitors actually click it -->
-<!-- Option 1: Animated GIF fallback (same effect, broader compatibility) -->
 <a href="https://santiagodevrel.dev">
-  <img src="./assets/portfolio-button.gif" alt="Portfolio" width="340"/>
+  <img src="https://img.shields.io/badge/🌐%20santiagodevrel.dev-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -21,7 +20,6 @@
 <!-- SOCIAL ICONS — rounded skill icons for LinkedIn, X, Gmail + shields badge for Medium -->
 <a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="48" title="Twitter / X"/></a>&nbsp;&nbsp;
-<a href="https://medium.com/@santiagodevrel"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="48" alt="Medium"/></a>&nbsp;&nbsp;
 <a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email"/></a>
 
 <br/><br/>

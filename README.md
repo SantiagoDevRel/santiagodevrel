@@ -10,19 +10,20 @@
 
 <br/>
 
-<!-- SOCIAL LINKS — logo icons + clean text hyperlinks -->
-<a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn"/></a>&nbsp;
-<a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="40" title="Twitter / X"/></a>&nbsp;
-<a href="https://santiagodevrel.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" title="Portfolio"/></a>&nbsp;
-<a href="https://medium.com/@santiagodevrel"><img src="https://img.shields.io/badge/M-12100E?style=flat-square&logo=medium&logoColor=white&logoSize=20" height="40" title="Medium"/></a>&nbsp;
-<a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email"/></a>
+<!-- PORTFOLIO CTA — given its own prominent badge so visitors actually click it -->
+<a href="https://santiagodevrel.dev">
+  <img src="https://img.shields.io/badge/🌐%20santiagodevrel.dev-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/><br/>
 
-<!-- Links as plain text below the icons -->
-[LinkedIn](https://linkedin.com/in/santiagodevrel) &nbsp;·&nbsp; [Twitter / X](https://twitter.com/santiagotrujilloz) &nbsp;·&nbsp; [Portfolio](https://santiagodevrel.dev) &nbsp;·&nbsp; [Medium](https://medium.com/@santiagodevrel) &nbsp;·&nbsp; [Email](mailto:santiagotrujillozuluaga@gmail.com)
+<!-- SOCIAL ICONS — rounded skill icons for LinkedIn, X, Gmail + shields badge for Medium -->
+<a href="https://linkedin.com/in/santiagodevrel"><img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/santiagotrujilloz"><img src="https://skillicons.dev/icons?i=twitter" width="48" title="Twitter / X"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@santiagodevrel"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="48" alt="Medium"/></a>&nbsp;&nbsp;
+<a href="mailto:santiagotrujillozuluaga@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email"/></a>
 
-<br/>
+<br/><br/>
 
 <!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=santiagodevrel&color=FF6B35&style=flat-square&label=profile+views)

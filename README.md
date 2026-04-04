@@ -11,13 +11,14 @@
 <br/>
 
 <!-- SOCIAL + PROFILE BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-santiagodevrel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagodevrel)
-[![Twitter](https://img.shields.io/badge/Twitter-@santiagotrujilloz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/santiagotrujilloz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-santiagodevrel.dev-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://santiagodevrel.dev)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@santiagodevrel)
+[![LinkedIn](https://img.shields.io/badge/santiagodevrel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagodevrel)
+[![Twitter](https://img.shields.io/badge/@santiagotrujilloz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/santiagotrujilloz)
+[![Portfolio](https://img.shields.io/badge/santiagodevrel.dev-FF6B35?style=flat-square&logo=vercel&logoColor=white)](https://santiagodevrel.dev)
+[![Medium](https://img.shields.io/badge/@santiagodevrel-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@santiagodevrel)
+[![Email](https://img.shields.io/badge/say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santiagotrujillozuluaga@gmail.com)
 
 <!-- PROFILE VIEWS COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=santiagodevrel&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=santiagodevrel&color=FF6B35&style=flat-square&label=profile+views)
 
 </div>
 
@@ -124,12 +125,6 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santiagodevrel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagodevrel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=FF6B35&text_color=ffffff" height="165"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagodevrel&theme=tokyonight&hide_border=true&background=0a0a0a&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" height="165"/>
 
 </div>
@@ -148,17 +143,6 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 </div>
 
 ---
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagodevrel)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/santiagotrujilloz)
-[![Email](https://img.shields.io/badge/Email-Say_hello-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagotrujillozuluaga@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_my_work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santiagodevrel.dev)
-
-</div>
 
 ---
 

@@ -159,6 +159,6 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" width="100%"/>
 
-*"The best DevRels are the ones who never stop building."*
+*"Never stop building, trying new things, life-long learner, showing up everywhere and a big believer that tech (Blockchain & AI) can change our lives"*
 
 </div>

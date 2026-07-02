@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- CAPSULE RENDER BANNER — change the color hex if you want a different accent -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=200&section=header&text=Santiago%20Trujillo&fontSize=52&fontAlignY=38&desc=Developer%20Advocate%20%7C%20Web3%20%2B%20AI&descAlignY=58&fontColor=ffffff&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=200&section=header&text=Santiago%20Trujillo&fontSize=52&fontAlignY=38&desc=DevRel%20Engineer%20%7C%20AI%20Dev%20Tools%20%2B%20Web3&descAlignY=58&fontColor=ffffff&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION — shows rotating roles under the banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Developer+Advocate+%F0%9F%91%A5;Web3+Builder+%F0%9F%94%97;AI+Explorer+%F0%9F%A4%96;Community+Builder+%F0%9F%8C%8D;Hackathon+Organizer+%F0%9F%8F%86;LATAM+%2B+Africa+Lead+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Senior+DevRel+Engineer+%40+Arkiv+%F0%9F%9B%A0%EF%B8%8F;AI+Dev+Tools+Builder+%F0%9F%A4%96;MCP+Servers+%2B+Agent+Skills+%E2%9A%A1;Web3+Builder+%F0%9F%94%97;Hackathon+Organizer+%F0%9F%8F%86;LATAM+%2B+Africa+Lead+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,22 +34,39 @@
 
 ## 🌍 About Me
 
-I am a Developer Advocate with 3+ years of experience building developer communities, driving product adoption, and traveling the world to put tools in the hands of builders.
+I am a Developer Relations Engineer with 3+ years building developer communities, driving product adoption, and traveling the world to put tools in the hands of builders.
 
-My background is deep in **Web3** — leading programs at Lisk, ChainSafe/Web3.js, and Swisstronik. Now I am expanding into **AI engineering**, building agents, using LLM APIs, and bridging the two worlds together.
+My background is deep in **Web3** — leading programs at Lisk, ChainSafe/Web3.js, and Swisstronik. Today I build **AI developer tools in production**: MCP servers, Agent Skills, and multi-agent pipelines that let any LLM build on real infrastructure.
 
-My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Africa**. That is my lane.
+My unique positioning: **Web3 × AI dev tools × LATAM + Africa**. That is my lane.
 
-- 🏢 Currently: **Global Developer Advocate @ [Lisk](https://lisk.com)** (Ethereum L2, emerging markets)
-- 🌎 Focus regions: **Africa** and **LATAM**
-- 🎤 Speaker at ETHDenver, ETHAccra, ETHOxford, ETHBucharest, ETHTallinn, and 10+ more
+- 🏢 Currently: **Senior Developer Relations Engineer @ [Arkiv](https://arkiv.network) (Golem Network)** — the Web3 database
+- 🤖 Shipped: a production **MCP server** ([live](https://arkivmcp.vercel.app)) with DX telemetry, **Agent Skills** on npm, **AGENTS.md-first docs**, and multi-agent pipelines on the Claude Agent SDK
+- 📦 Open source on npm: [`arkiv-sync`](https://www.npmjs.com/package/arkiv-sync) & [`arkiv-graph`](https://www.npmjs.com/package/arkiv-graph)
+- 🎤 Speaker at ETHDenver, ETHCC, ETHAccra, ETHOxford, ETHBucharest, ETHTallinn, and 10+ more
 - 🎓 Master's in Blockchain Technologies — **UPC Barcelona**
-- 🤖 Building AI agents with Claude API, viem, LI.FI — learning in public
 - 🌐 Languages: **English** | **Spanish** | Portuguese (working)
 
 ---
 
 ## 🛠️ Tech Stack
+
+**AI Engineering (shipping in production)**
+
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NVIDIA DGX Spark](https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Web3**
 
@@ -60,41 +77,26 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**AI (building now)**
-
-![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
 **DevRel & Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
-## 🧠 Currently Learning — AI DevRel Roadmap
+## 🤖 AI Dev Tools — shipped
 
-| Area | Status |
-|---|---|
-| Python fundamentals (JS → Python path) | 🟡 In progress |
-| LLM APIs (Anthropic Claude, OpenAI) | 🟡 In progress |
-| Agentic loops and tool-use | 🟡 In progress |
-| RAG and vector databases | ⬜ Planned |
-| LangChain / LangGraph | ⬜ Planned |
-| MCP (Model Context Protocol — standard for connecting AI to external tools) | ⬜ Planned |
+- 🔌 **Production MCP server** for Arkiv — local stdio + remote HTTP transports, bearer auth, developer-experience telemetry → [arkivmcp.vercel.app](https://arkivmcp.vercel.app)
+- 📜 **Agent Skills** ([agentskills.io](https://agentskills.io) spec) published on npm — build recipes AI coding agents pull on demand
+- 🤝 **Multi-agent pipelines** on the Claude Agent SDK — curated 124 hackathon submissions into a [104-project ecosystem dataset](https://arkiv-hub.vercel.app/ecosystem); competitive-intel [research agent](https://github.com/SantiagoDevRel/devrel-research-agent)
+- 📖 **LLM-readable docs** — AGENTS.md-first documentation so coding agents integrate SDKs without breaking invariants
+- 🖥️ **Local AI lab** on NVIDIA DGX Spark — self-hosted LLM & diffusion pipelines, remote MCP hosting through Cloudflare Tunnels
+- ⚽ **ML × LLM hybrids** — [football value-bet engine](https://github.com/SantiagoDevRel/football-prediction-bot) (Dixon-Coles / Elo / XGBoost / Bayesian ensemble + LLM-generated features)
+
+Next up: RAG pipelines and LLM evals on local hardware — learning in public.
 
 ---
 
@@ -102,11 +104,13 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 LI.FI DCA Agent](https://github.com/SantiagoDevRel/lifi-dca-agent) | Autonomous DCA (Dollar-Cost Averaging) trading agent that executes real on-chain swaps on Base mainnet | Node.js, Claude API, LI.FI API, viem |
-| [🧠 Arkiv Multi-Agent Memory](https://github.com/SantiagoDevRel/Arkiv-agent-memory) | Multi-agent shared memory demo on an Ethereum L2 decentralized database | Arkiv SDK, Node.js |
-| [⭐ Stellar Token Studio](https://github.com/SantiagoDevRel) | No-code token creation tool for the Stellar blockchain | Stellar SDK, React |
-| [🚀 Libertum Launchpad](https://github.com/SantiagoDevRel/Libertum) | ERC-20 token launchpad with automated liquidity pool creation on BNB Chain | Solidity, PancakeSwap, Ethers.js |
-| [🌍 Santiago's World](https://santiagodevrel.dev) | Interactive portfolio with Mapbox world map of all events attended | Next.js 14, Mapbox GL JS, Framer Motion |
+| [📦 arkiv-sync](https://github.com/SantiagoDevRel/arkiv-sync) | Point any EVM contract at Arkiv and turn its events into a queryable database — reorg-safe, idempotent, resumable. [On npm](https://www.npmjs.com/package/arkiv-sync) + `npm create` scaffolder + Agent Skill | TypeScript, viem, Arkiv SDK |
+| [🕸️ arkiv-graph](https://github.com/SantiagoDevRel/arkiv-graph) | Turn an Arkiv database into a live interactive graph or tables — [npm](https://www.npmjs.com/package/arkiv-graph) · [showcase](https://arkiv-graph-example.vercel.app) | TypeScript, React |
+| [🔌 Arkiv MCP](https://arkivmcp.vercel.app) | Production MCP server so Claude, Cursor & any LLM can build on Arkiv — local + remote HTTP, telemetry dashboard | TypeScript, MCP, Vercel |
+| [🔎 DevRel Research Agent](https://github.com/SantiagoDevRel/devrel-research-agent) | Multi-agent competitive-intel CLI for DevRel teams | TypeScript, Claude Agent SDK |
+| [🤖 LI.FI DCA Agent](https://github.com/SantiagoDevRel/lifi-dca-agent) | Autonomous DCA trading agent executing real on-chain swaps on Base mainnet | Node.js, Claude API, LI.FI, viem |
+| [⚽ Football Prediction Bot](https://github.com/SantiagoDevRel/football-prediction-bot) | Value-bet detector — statistical ensemble + LLM-generated qualitative features | Python, XGBoost |
+| [🌍 Santiago's World](https://santiagodevrel.dev) | Interactive portfolio with Mapbox world map of all events attended | Next.js, Mapbox GL JS |
 
 ---
 
@@ -115,6 +119,9 @@ My unique positioning: **nobody else is publicly doing Web3 + AI + LATAM + Afric
 > 3+ years. 10+ countries. 1,000s of developers.
 
 ```
+🔌  Production MCP server + Agent Skills → AI-native onboarding for Arkiv
+📦  2 open-source libraries published on npm (arkiv-sync, arkiv-graph)
+🗂️  124 hackathon submissions → 104-project ecosystem dataset (multi-agent pipeline)
 🎤  10+ conferences as speaker/workshop facilitator (ETHDenver, ETHCC, ETHAccra...)
 🌍  Web3.js Africa Tour: 4 countries, 16 workshops, 500+ developers
 🏆  ETHTallinn hackathon winner — web3.js payments integration

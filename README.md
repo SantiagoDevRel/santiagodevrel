@@ -58,6 +58,9 @@ My focus is **AI coding agents, developer infrastructure, and evaluation**. My b
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NVIDIA DGX Spark](https://img.shields.io/badge/NVIDIA_DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-222222?style=for-the-badge&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge&logoColor=white)
+![Qwen Image](https://img.shields.io/badge/Qwen_Image-615CED?style=for-the-badge&logoColor=white)
 
 **Languages & Frameworks**
 
@@ -67,6 +70,14 @@ My focus is **AI coding agents, developer infrastructure, and evaluation**. My b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Mobile & app delivery**
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play_Closed_Testing-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 
 **Web3**
 
@@ -83,6 +94,7 @@ My focus is **AI coding agents, developer infrastructure, and evaluation**. My b
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare Tunnels](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -95,7 +107,8 @@ My focus is **AI coding agents, developer infrastructure, and evaluation**. My b
 - 🤝 **Multi-agent pipelines** on the Claude Agent SDK — curated 124 hackathon submissions into a [104-project ecosystem dataset](https://arkiv-hub.vercel.app/ecosystem); competitive-intel [research agent](https://github.com/SantiagoDevRel/devrel-research-agent)
 - 🧩 **Builder feedback as engineering evidence** — checked 286 Arkiv findings from 14 hackathon teams against source, code, on-chain data, and MCP telemetry; organized them into product asks for engineering
 - 📖 **LLM-readable docs** — AGENTS.md-first documentation so coding agents integrate SDKs without breaking invariants
-- 🖥️ **Local AI lab** on NVIDIA DGX Spark — self-hosted LLM & diffusion pipelines, remote MCP hosting through Cloudflare Tunnels
+- 🖥️ **Local AI lab** on NVIDIA DGX Spark — run local LLMs, ComfyUI/Qwen Image generation pipelines, and guarded remote MCP services through Cloudflare Tunnels
+- 🎨 **Arkiv mascot and visual explainers** — developed a voxel-mascot asset pipeline with Qwen Image, ComfyUI, and a custom LoRA, then turned the character into interactive developer-education visuals
 - ⚽ **ML × LLM hybrids** — [football value-bet engine](https://github.com/SantiagoDevRel/football-prediction-bot) (Dixon-Coles / Elo / XGBoost / Bayesian ensemble + LLM-generated features)
 
 ---

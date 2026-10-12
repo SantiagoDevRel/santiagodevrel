@@ -36,7 +36,7 @@
 
 I build AI developer tools and production software. At Arkiv, I lead developer relations and ship tools that help coding agents and developers use a new database: MCP servers, Agent Skills, telemetry, and open-source npm packages. I also built a Claude Code tool gate at ETHGlobal Lisbon.
 
-I also build and operate full products: [Dale Ve!](https://daleve.co), a football fan app across web and mobile; [La Polla](https://github.com/SantiagoDevRel/la-polla-app), a football prediction platform; and Agent Relay, a local system that coordinates coding agents through bounded tasks, isolated worktrees, and executable acceptance checks.
+I also build and operate full products: [Dale Ve!](https://daleve.co), a football fan app live on the web and iOS, with its Android app in Google Play closed testing; [La Polla](https://github.com/SantiagoDevRel/la-polla-app), a football prediction platform; and Agent Relay, a local system that coordinates coding agents through bounded tasks, isolated worktrees, and executable acceptance checks.
 
 My focus is **AI coding agents, developer infrastructure, and evaluation**. My background in Web3 and developer communities across LATAM and Africa gives me real products and builders to test these tools against.
 
@@ -105,7 +105,7 @@ My focus is **AI coding agents, developer infrastructure, and evaluation**. My b
 | Project | Description | Stack |
 |---|---|---|
 | [🛡️ SureX](https://github.com/SantiagoDevRel/surex) | MCP trust registry, Claude Code tool gate, and a fixture-based model evaluation system built at ETHGlobal Lisbon 2026 | TypeScript, MCP, Claude Code, DGX |
-| [⚽ Dale Ve!](https://daleve.co) | Football fan web app with iOS and Android shells, authenticated data, and a shared native runtime | Next.js, React, Capacitor, Supabase |
+| [⚽ Dale Ve!](https://daleve.co) | Public [web](https://daleve.co) and [iOS](https://apps.apple.com/co/app/dale-ve/id6808302538) apps; Android app in Google Play closed testing | Next.js, React, Capacitor, Supabase |
 | [🏆 La Polla](https://github.com/SantiagoDevRel/la-polla-app) | Football prediction platform with user accounts, live match data, and payments | Next.js, Supabase |
 | **Agent Relay** (private local tool) | Coordinates coding-agent work with dependencies, isolated worktrees, acceptance checks, and guarded integration | Node.js, React, Git |
 | [📦 arkiv-sync](https://github.com/SantiagoDevRel/arkiv-sync) | Point any EVM contract at Arkiv and turn its events into a queryable database — reorg-safe, idempotent, resumable. [On npm](https://www.npmjs.com/package/arkiv-sync) + `npm create` scaffolder + Agent Skill | TypeScript, viem, Arkiv SDK |
